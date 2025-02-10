@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./home.gif" />
+  <img src="https://github.com/DeependraParmar/DeependraParmar/raw/main/home.gif" />
 </p>
 
 <p align="right"><a href="https://github.com/deependra-parmar"><img src="https://komarev.com/ghpvc/?username=deependra-parmar&label=Profile%20Impressions&color=red&style=for-the-badge" alt="deependraparmar" /> </a></p>
